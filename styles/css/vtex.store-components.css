@@ -4,6 +4,7 @@
     font-weight: bold;
     color: black;
     border: 2px solid black;
+    padding: 24px;
 }
 .infoCardContainer{
     max-width: 1260px;
