@@ -4,13 +4,11 @@
     font-weight: bold;
     color: black;
     border: 2px solid black;
-    
-    
 }
 .infoCardContainer{
-    padding: 0px;
     max-width: 1260px;
     margin: 0 auto;
+    padding: 0px;
 }
 .infoCardCallActionContainer :global(.vtex-button) {
     color: white;
